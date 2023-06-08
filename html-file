@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="descrption" content="Lain Iwakura Tribute Page" />
+    <title id="title">Lain Iwakura</title>
+    <link href='https://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet'>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header>
+    <div id="scroll-container">
+      <div id="scroll-text">Please Bring Lain Home</div>
+    </div>
+  </header>
+    <main id="main">
+        <section role="region" aria-labelledby="find-lain">
+            <div class="missing-poster-frontpage">              
+                <div id="img-div">
+                    <img id="image" src="https://lain.wiki/images/thumb/8/83/Lain.jpg/250px-Lain.jpg">
+                </div>
+                <h1>Have<br/> You<br/> Seen<br/> Lain?</h1>
+            </div>
+        </section>
+        <section role="region" aria-labelledby="call-to-action">
+            <div id="tribute-info">Here's all you need to know...
+                <a id="tribute-link" target="_blank" href="https://www.youtube.com/playlist?list=PLtIJ9SyiGcCgM2-YWNB9EvqwYz-4IcPm8">Join THE WIRED</a>
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>
